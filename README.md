@@ -15,6 +15,7 @@ This project builds a deep learning model to predict the success of non-profit o
   - `INCOME_AMT`
   - `SPECIAL_CONSIDERATIONS`
   - `ASK_AMT`
+  - `IS_SUCCESSFUL`
 - **Dropped Columns:**
   - `EIN` (Not relevant)
   - `NAME` (Not useful for prediction)
